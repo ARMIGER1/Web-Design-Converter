@@ -6,7 +6,8 @@ package WDC.interfaces;
 
 /**
  *
- * @author nick
+ * @author ARMIGER1
+ * @version 1.0
  */
 public interface Calculations {
     
