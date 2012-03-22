@@ -13,7 +13,7 @@
 To install, simply:
 
 1. Unzip the folder  
-2. Go into the **install** folder  
+2. Go into the **installer** folder  
 3. Open **installer.jar**
 
 ##2. Usage
