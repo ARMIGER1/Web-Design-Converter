@@ -1,4 +1,5 @@
 
+
 #README
 
 ## Table of Contents
@@ -12,8 +13,8 @@
 To install, simply:
 
 1. Unzip the folder  
-2. Go into the **/dist/** folder
-3. Run **Web_Design_Converter.jar**
+2. Go into the **install** folder  
+3. Open **installer.jar**
 
 ##2. Usage
 
@@ -41,4 +42,10 @@ The "Desired Font Size" field also takes a numeric value, in pixels with or with
 
 ##3. Uninstallation
 
-To uninstall, simply delete the entire installation folder.
+### Windows / Linux
+
+Go into wherever you chose to install the program, find the **Uninstaller** folder and run **Uninstaller.jar**.
+
+### OSX
+
+Go into **/Applications/Web Design Converter/Uninstaller** and run **Uninstaller.jar**.
