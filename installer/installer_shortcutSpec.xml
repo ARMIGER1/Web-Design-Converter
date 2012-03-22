@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shortcuts>
+    <skipIfNotSupported/>
+    <defaultCurrentUser/>
+    <programGroup defaultName="Web Design Converter" location="applications"/>
+    <shortcut applications="yes" desktop="yes"
+        iconFile="$INSTALL_PATH/splash_img.png" iconIndex="0"
+        initialState="noShow" name="Web Design Calculator"
+        programGroup="yes" startMenu="yes" startup="no" target="$INSTALL_PATH/"/>
+</shortcuts>
